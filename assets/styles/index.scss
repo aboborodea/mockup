@@ -1,0 +1,131 @@
+@import '~bootstrap/scss/bootstrap';
+
+.box1 {
+    background-image: url(https://i.imgur.com/J9uHw3I.png);
+    background-size: cover;
+}
+
+.box2 {
+    background-color :white;
+}
+
+.box3 {
+    background-color: #242747;
+}
+
+.box4 {
+    // background-color: white;
+}
+
+.box5 {
+    background-color: white;
+}
+
+.box6 {
+    background-color:  #242747;
+}
+
+.box1text {
+    color: white;
+    font-size: 33px;
+    line-height: 1em;
+    margin-left: 5vw;
+    margin-top: 5vh;
+    width: 37vw;
+    
+}
+
+.box1SubText {
+    color: white;
+    margin-left: 5vw;
+    width: 40vw;
+}
+
+.box2text {
+    color: black;
+    font-size: 30px;
+    line-height: 1em;
+    margin-left: 5vw;
+    margin-top: 5vh;
+    width: 40vw;
+    
+}
+
+.box2SubText {
+    color: black;
+    font-size: 16px;
+    margin-bottom: 5vh;
+    margin-left: 5vw;
+    width: 40vw;
+    line-height: 1.1em;
+}
+
+.box3col {
+    color: white;
+    font-size: 25px;
+    margin-top: 4vh;
+    text-align: center;
+}
+
+.box3SubText {
+    font-size: 12px;
+    margin-left: 6vw;
+    margin-right: 5vw;
+    text-align: center;
+}
+
+.box4text {
+    margin-top: 5vh;
+}
+
+.box5image {
+    height: 50vh;
+
+}
+
+.carouselImage {
+    margin: 7vh auto ;
+}
+
+.col2image {
+    margin-left: 10vh;
+    margin-top: 5vh;
+}
+.check {
+    margin-left: 1vw;
+    margin-bottom: 4vh;
+}
+
+.eachRow {
+    height: 30vh;
+}
+
+.eachRowMedium {
+    height: 45vh;
+}
+
+.eachRowLarger {
+    height: 50vh;
+}
+
+.footerButtons {
+    display: flex;
+    justify-content: center;
+}
+
+.formNav {
+    margin-right: 5vw;
+}
+
+.icon {
+    margin-left: 5vw;
+}
+
+.miniRow {
+    margin-top: -3vh;
+    margin-left: 5vw;
+}
+
+.navbarBackground {
+    background-color: white;
+}
