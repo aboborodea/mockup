@@ -13,14 +13,6 @@
     background-color: #242747;
 }
 
-.box4 {
-    // background-color: white;
-}
-
-.box5 {
-    background-color: white;
-}
-
 .box6 {
     background-color:  #242747;
 }
@@ -28,6 +20,7 @@
 .box1text {
     color: white;
     font-size: 33px;
+    font-weight: bold;
     line-height: 1em;
     margin-left: 5vw;
     margin-top: 5vh;
@@ -37,17 +30,19 @@
 
 .box1SubText {
     color: white;
+    line-height: 1em;
     margin-left: 5vw;
     width: 40vw;
 }
 
 .box2text {
     color: black;
-    font-size: 30px;
+    font-size: 25px;
+    font-weight: bold;
     line-height: 1em;
     margin-left: 5vw;
     margin-top: 5vh;
-    width: 40vw;
+    width: 35vw;
     
 }
 
@@ -62,13 +57,15 @@
 
 .box3col {
     color: white;
-    font-size: 25px;
-    margin-top: 4vh;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 2.5vh;
     text-align: center;
 }
 
 .box3SubText {
     font-size: 12px;
+    font-weight: normal;
     margin-left: 6vw;
     margin-right: 5vw;
     text-align: center;
@@ -80,11 +77,22 @@
 
 .box5image {
     height: 50vh;
+    margin-right: -6vw;
 
 }
 
 .carouselImage {
     margin: 7vh auto ;
+}
+
+.carouselNav {
+    font-weight: bold;
+    color: #242747;
+    text-align: center;
+    margin-right: 5vw;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+    padding-right: 10vw;
 }
 
 .col2image {
@@ -128,4 +136,33 @@
 
 .navbarBackground {
     background-color: white;
+}
+.pricingButton {
+    border: 1px solid white;
+    color: white;
+    margin-left: 2.5em;
+    margin-top: 10vh;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+
+.exploreButton {
+    border: 1px solid white;
+    color: white;
+    margin-right: 2.5em;
+    margin-top: 10vh;
+    padding: 1em;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #FE6902;
+}
+
+.subNav {
+    background-color: white;
+}
+
+.subNavText {
+    display: flex;
+    justify-content: center;
 }

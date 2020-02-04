@@ -1,0 +1,1 @@
+Creating a responsive, static landing page based on specs from a mockup
